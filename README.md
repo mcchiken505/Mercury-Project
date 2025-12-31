@@ -1,5 +1,5 @@
-# <p align = "center">Mercury Project<br>![https://of7rewritten.neocities.org/](https://img.shields.io/badge/OF7R%20website-green) ![https://discord.gg/zJVESg2n4d](https://img.shields.io/badge/Discord-blue) ![https://t.me/outfit7rewritten](https://img.shields.io/badge/Telegram-blue)</p> 
-### ![MercuryInfo](https://raw.githubusercontent.com/mcchiken505/Merucry-Project/refs/heads/main/mercuryinfo.png) What is this?
+# <p align = "center">Mercury Project<br>[![OF7R/Mercury Project Website](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/OF7R%20website.svg)](https://of7rewritten.neocities.org/) [![Discord](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/Discord.svg)](https://discord.com/invite/zJVESg2n4d) [![Telegram](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/Telegram.svg)](https://t.me/outfit7rewritten)</p> 
+### ![MercuryInfo](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/refs/heads/main/img/mercuryinfo.png) What is this? 
 
 Mercury Project - Experimental project whose goal is to port Outfit7 mobile games/apps based on the Talking Tom franchise.
 
@@ -38,7 +38,7 @@ Mercury Project - Experimental project whose goal is to port Outfit7 mobile game
 ###### Ports that are not 100% accuracy will be updated and missing games from the list will be ported. 
 ###### Games released after the end of 2012 or the beginning of 2013 are not ported.
 
-## ![Info](https://raw.githubusercontent.com/mcchiken505/Merucry-Project/refs/heads/main/info.png) FAQ
+## ![Info](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/refs/heads/main/img/info.png) FAQ
 ### Are the ports official?
 
 No, Not official. Ports are fan-made, as is the Outfit7 Rewritten team. All rights to characters, games, layout of this site belong to Outfit7. We do not receive any profit from the Mercury Project.
