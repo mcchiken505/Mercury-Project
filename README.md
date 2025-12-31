@@ -54,3 +54,9 @@ No, they won't. Some of Outfit7's games are made in 3D, but unfortunately we don
 ### What about new 2D Games from Outfit7?
 
 They won't be there either. We just don't see the point. We don't think that new games have given anyone their childhood.
+
+
+
+
+## Mercury Project is 100% safe.
+If your Antivirus blocks the file with the launcher, then do not be misled. Unfortunately, we do not have a digital signature for applications, so the launcher with ports will be found by the antivirus as a virus, but this is not so! 
