@@ -1,0 +1,6 @@
+Be sure to unzip all files from the .zip!!!
+
+For now, Tom from Talking Tom 2 can repeat the words. When I finally manage to make a voice feed, Tom from the phone will also speak
+
+Talking Ben (Port) is still in alpha testing.
+Talking Gina (Port) is still in alpha testing.
