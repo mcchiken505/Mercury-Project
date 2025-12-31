@@ -51,10 +51,6 @@ on IOS and Android versions. Most of the ports are based on the IOS versions, bu
 
 No, they won't. Some of Outfit7's games are made in 3D, but unfortunately we don't have 3D skills, older games are easier to make because they are already divided into frames.
 
-### What about new 2D Games from Outfit7?
-
-They won't be there either. We just don't see the point. We don't think that new games have given anyone their childhood.
-
 
 
 
