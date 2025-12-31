@@ -1,8 +1,7 @@
 # Merucry-Project
 Talking Games for Your Computer! https://of7rewritten.neocities.org/
 
-![Image alt](https://raw.githubusercontent.com/mcchiken505/Merucry-Project/refs/heads/main/mercuryinfo.png)
-# What is this?
+# ![Image alt](https://raw.githubusercontent.com/mcchiken505/Merucry-Project/refs/heads/main/mercuryinfo.png) What is this?
 
 Mercury Project - Experimental project whose goal is to port Outfit7 mobile games/apps based on the Talking Tom franchise.
 
@@ -47,8 +46,7 @@ Tom Love Letters - 100%
 
 Games released after the end of 2012 or the beginning of 2013 are not ported.
 
-![Image alt](https://raw.githubusercontent.com/mcchiken505/Merucry-Project/refs/heads/main/info.png)
-#FAQ
+# ![Image alt](https://raw.githubusercontent.com/mcchiken505/Merucry-Project/refs/heads/main/info.png) FAQ
 ## Are the ports official?
 
 No, Not official. Ports are fan-made, as is the Outfit7 Rewritten team. All rights to characters, games, layout of this site belong to Outfit7. We do not receive any profit from the Mercury Project.
