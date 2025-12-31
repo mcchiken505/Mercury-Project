@@ -3,6 +3,15 @@
 
 Mercury Project - Experimental project whose goal is to port Outfit7 mobile games/apps based on the Talking Tom franchise.
 
+#### Mercury Project is 100% safe.
+If your Antivirus blocks the file with the launcher, then do not be misled. Unfortunately, we do not have a digital signature for applications, so the launcher with ports will be found by the antivirus as a virus, but this is not so!
+
+#### Our ports are optimized.
+Our ports are optimized and do not eat up much RAM, so your system will not lag while the port is open!
+
+#### 100% accurate recreations.
+We care about how our ports look and try to make them as close to the original as possible. 
+
 ## Completed ports and their accuracy:
 
 ### 2010:
