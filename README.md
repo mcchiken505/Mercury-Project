@@ -44,6 +44,14 @@ We care about how our ports look and try to make them as close to the original a
 |Tom Love Letters|100%|
 
 
+### Talking Games made not Outfit7:
+
+|Game/App name|Percentage of completion|
+|---|:---:|
+|Talking Snake|100%|
+|Talking Chick|100%|
+
+
 ###### Ports that are not 100% accuracy will be updated and missing games from the list will be ported. 
 ###### Games released after the end of 2012 or the beginning of 2013 are not ported.
 
