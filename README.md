@@ -1,7 +1,7 @@
 # <p align = "center">Mercury Project<br>[![OF7R/Mercury Project Website](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/OF7R%20website.svg)](https://of7rewritten.neocities.org/) [![Discord](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/Discord.svg)](https://discord.com/invite/zJVESg2n4d) [![Telegram](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/1cc297e99cb235736126ff65d1ad745656ffdc65/img/Telegram.svg)](https://t.me/outfit7rewritten)</p> 
 ### ![MercuryInfo](https://raw.githubusercontent.com/mcchiken505/Mercury-Project/refs/heads/main/img/mercuryinfo.png) What is this? 
 
-Mercury Project - Experimental project whose goal is to port Outfit7 mobile games/apps based on the Talking Tom franchise/Talking Freinds series.
+Mercury Project - Experimental project whose goal is to port Outfit7 mobile games/apps based on the Talking Tom franchise/Talking Friends series.
 
 #### Mercury Project is 100% safe.
 If your Antivirus blocks the file with the launcher, then do not be misled. Unfortunately, we do not have a digital signature for applications, so the launcher with ports will be found by the antivirus as a virus, but this is not so!
